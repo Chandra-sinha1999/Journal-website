@@ -48,8 +48,8 @@ ul.widget1 li a {
     display: block;
 }
 .row {
-    margin-right: -15px;
-    margin-left: -60px;
+    margin-right: 4%;
+    margin-left: 4%;
 }
 .container {
     position: relative;

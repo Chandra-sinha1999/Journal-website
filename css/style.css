@@ -8,11 +8,12 @@
 .logo {
     width: 200px;
     height: 100px;
+    /* margin-left: 10%; */
 }
 .title{
   width: 100%;
   height: 80%;
-  padding:0 0 10%;
+  padding:0 0 3%;
 }
 .titleBorder{
   margin-bottom: 140px;
@@ -59,3 +60,15 @@
   color:darkred;
 }
 /* sliding window */
+.page-footer{
+  color: white;
+}
+.socialMedia{
+  padding-left: 10%;
+}
+.scopusDiv{
+  padding-left: 5%;
+}
+.ugcDiv{
+  padding-left: 5%;
+}
