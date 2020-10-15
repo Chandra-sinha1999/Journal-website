@@ -96,10 +96,3 @@ ul#profile li .detail_editorial p {
     font-family: 'Open Sans', sans-serif;
     padding-top: 15px ;
 }
-a{
-    color: #000;
-    text-decoration: none;
-}
-a:hover{
-    color: darkred;
-}

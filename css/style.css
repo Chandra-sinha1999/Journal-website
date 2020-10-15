@@ -72,3 +72,16 @@
 .ugcDiv{
   padding-left: 5%;
 }
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    color: darkred;
+}
+.footerLinks{
+  color: white;
+}
+.footerLinks:hover{
+  color: yellow;
+}
