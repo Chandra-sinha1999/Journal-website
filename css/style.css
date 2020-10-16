@@ -85,3 +85,7 @@ a:hover{
 .footerLinks:hover{
   color: yellow;
 }
+.upper_section{
+  margin-left: 4%;
+  margin-right: 4%;
+}
